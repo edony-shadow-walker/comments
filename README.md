@@ -9,3 +9,4 @@ Comments of [Shadow Walker](https://edony.ink/) 即松烟阁评论区，是[基�
 有两种方式参与讨论：
 - [Shadow Walker](https://edony.ink/) 下方评论区发表评论，需要通过 github authentication
 - 直接在  [Discussions](https://github.com/edony-shadow-walker/comments/discussions) 区域发表讨论
+- 更多内容请看 [Shadow Walker mannual](https://www.edony.ink/manual/)
